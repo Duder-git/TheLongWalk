@@ -1,6 +1,6 @@
 # 如何使用Git——Git入门
 
-[学习视频](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click&vd_source=a76b8a2a6d9a18738abcb916b7836085)
+[学习视频kuangstudy](https://www.bilibili.com/video/BV1FE411P7B3/?spm_id_from=333.337.search-card.all.click&vd_source=a76b8a2a6d9a18738abcb916b7836085)
 
 [笔记资料](https://www.kuangstudy.com/bbs/1532247011263672321)
 
